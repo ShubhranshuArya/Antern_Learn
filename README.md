@@ -17,3 +17,8 @@
   - [Calculus](https://github.com/ShubhranshuArya/Antern_Learn/blob/main/Week-4/Calculus.pdf)
 - Assignments:
   - [DataWars - Python Collections Track](https://app.datawars.io/skill-track/046e6e89-7020-4763-b13d-1acbd3be3a4a)
+## Week - 5
+- Learnings: 
+  - [ML Basics](https://github.com/ShubhranshuArya/Antern_Learn/blob/main/Week-5/ML%20Basics.pdf)
+- Assignments:
+  - [DataWars - Machine Learning Basics Track](https://app.datawars.io/skill-track/29c64fe4-90ec-412b-afda-f7b6d6d3a76a)
