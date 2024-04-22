@@ -22,3 +22,8 @@
   - [ML Basics](https://github.com/ShubhranshuArya/Antern_Learn/blob/main/Week-5/ML%20Basics.pdf)
 - Assignments:
   - [DataWars - Machine Learning Basics Track](https://app.datawars.io/skill-track/29c64fe4-90ec-412b-afda-f7b6d6d3a76a)
+## Week - 6
+- Learnings: 
+  - [Linear Regression](https://github.com/ShubhranshuArya/Antern_Learn/blob/main/Week-6/Linear_Regression.pdf)
+- Assignments:
+  - [DataWars - Supervised Learning Track](https://app.datawars.io/skill-track/32582c3c-a157-4b92-b797-eb3932ab4eb1)
